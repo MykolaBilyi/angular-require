@@ -1,0 +1,13 @@
+{
+    "name": "angular-require",
+    "version": "1.0.0",
+    "main": "build/angular-require.min.js",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
